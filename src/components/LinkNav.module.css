@@ -1,0 +1,9 @@
+.row_Link {
+  display: flex;
+  align-items: center;
+}
+
+.row_Link span {
+  font-family: "Gill Sans", sans-serif;
+  color: #fff;
+}
