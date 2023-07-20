@@ -1,9 +1,14 @@
 .row_Link {
   display: flex;
   align-items: center;
+  gap: 20px;
 }
 
 .row_Link span {
   font-family: "Gill Sans", sans-serif;
-  color: #fff;
+  color: #ffffffbe;
+}
+
+.row_Link span:hover {
+  color: #ff4d40;
 }
