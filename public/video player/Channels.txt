@@ -1,0 +1,10 @@
+1 - Globo = https://cinexus-bobosp.netlify.app
+2 - SBT = https://cinexus-sbt.netlify.app
+3 - Viva = https://cinexus-viva.netlify.app
+4 - Discovery = https://cinexus-discovery.netlify.app
+5 - Animal Planet = https://cinexus-animal-planet.netlify.app
+6 - Telecine = https://cinexus-telecinepr.netlify.app
+7 - ESPN = https://cinexus-espn.netlify.app
+8 - Combate = https://cinexus-combate.netlify.app
+9 - Cartoon = https://cinexus-cartoon.netlify.app
+10 - Disney = https://cinexus-disney.netlify.app
