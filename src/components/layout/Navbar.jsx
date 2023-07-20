@@ -18,9 +18,6 @@ export const Navbar = () => {
         </Link>
         <img src={photoProfile} alt="photo-profile" />
         <h3>Name</h3>
-        <Link to="/admin">
-          <span>Painel Admin</span>
-        </Link>
       </div>
       <nav className={styles.container_Links}>
         <span>
