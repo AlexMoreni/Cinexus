@@ -9,6 +9,10 @@ import Combate from "../../public/video player/Channels/img/Combate.png";
 import Disney from "../../public/video player/Channels/img/Disney.jfif";
 
 //Filmes
+import Velozes from "../../public/video player/Movies/img/velozes.jpg";
+import ToyStory from "../../public/video player/Movies/img/toy-story.jpg";
+import Piratas from "../../public/video player/Movies/img/piratas.jfif";
+import GodzKong from "../../public/video player/Movies/img/godz-kong.jfif";
 
 const Home = () => {
   return (
@@ -38,17 +42,25 @@ const Home = () => {
         <div className={styles.box_content}>
           <h2>Filmes</h2>
           <div className={styles.container_listHome}>
-            <a href="https://cinexus-bobosp.netlify.app">
-              <Card img={Globo} alt="Globo" name="Globo" />
+            <a href="https://cinexus-vlefur.netlify.app">
+              <Card
+                img={Velozes}
+                alt="Velozes e furiosos 10"
+                name="Velozes e furiosos 10"
+              />
             </a>
-            <a href="https://cinexus-combate.netlify.app">
-              <Card img={Combate} alt="Combate" name="Combate" />
+            <a href="https://cinexus-toystory4.netlify.app">
+              <Card img={ToyStory} alt="Toy Story 4" name="Toy Story 4" />
             </a>
-            <a href="https://cinexus-disney.netlify.app">
-              <Card img={Disney} alt="Disney" name="Disney" />
+            <a href="https://cinexus-kdzvskng.netlify.app">
+              <Card img={GodzKong} alt="GodzKong" name="Godzilla vs Kong" />
             </a>
-            <a href="https://cinexus-animal-planet.netlify.app">
-              <Card img={Animal} alt="Animal Planet" name="Animal Planet" />
+            <a href="https://cinexus-piratas-caribe.netlify.app">
+              <Card
+                img={Piratas}
+                alt="Piratas do Caribe"
+                name="Piratas do Caribe"
+              />
             </a>
           </div>
         </div>
