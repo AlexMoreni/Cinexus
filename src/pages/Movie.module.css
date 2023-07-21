@@ -3,4 +3,12 @@
   height: 100vh;
   background-color: #491111;
   margin-left: 20vw;
+  padding: 40px;
+}
+
+.container_list_movies {
+  max-width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
 }

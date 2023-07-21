@@ -1,0 +1,11 @@
+1 - Velozes e furiosos = https://cinexus-vlefur.netlify.app
+2 - John Wick = https://cinexus-johnwick.netlify.app
+3 - Duro de matar = https://cinexus-ddmatar.netlify.app
+4 - Toy Story 4 = https://cinexus-toystory4.netlify.app
+5 - Moana = https://cinexus-moana.netlify.app
+6 - Os Smurf = https://cinexus-smurf.netlify.app
+7 - Godzila vs Kong = https://cinexus-kdzvskng.netlify.app
+8 - Piratas do Caribe = https://cinexus-piratas-caribe.netlify.app
+
+
+
