@@ -3,4 +3,45 @@
   height: 100vh;
   background-color: #491111;
   margin-left: 20vw;
+  padding: 40px;
+}
+
+.container_textHome {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container_textHome h1 {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 6rem;
+  color: #e52214;
+  background-color: #1c1616;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.container_textHome p {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 1.25rem;
+  color: aliceblue;
+  margin-top: 15px;
+}
+
+.box_content {
+  margin: 40px 0;
+}
+
+.box_content h2 {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 2rem;
+  color: aliceblue;
+  margin-bottom: 15px;
+}
+
+.container_listHome {
+  max-width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
 }
