@@ -1,5 +1,4 @@
 import styles from "./Home.module.css";
-import { useEffect, useState } from "react";
 
 import Card from "../components/layout/Card";
 
@@ -11,28 +10,7 @@ import Disney from "../../public/video player/Channels/img/Disney.jfif";
 
 //Filmes
 
-const url = "http://localhost:5000/api/canais";
-
 const Home = () => {
-  const [canais, setCanais] = useState([]);
-
-  async function fetchData() {
-    try {
-      const res = await fetch(url);
-      const data = await res.json();
-
-      setCanais(data);
-    } catch (error) {
-      console.error("Houve algum erro inesperado!");
-    }
-  }
-
-  console.log(canais);
-
-  useEffect(() => {
-    fetchData();
-  }, []);
-
   return (
     <section>
       <main className={styles.container_home}>
