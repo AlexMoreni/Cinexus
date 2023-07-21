@@ -6,6 +6,15 @@
   padding: 40px;
 }
 
+.container_movies h1 {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 4em;
+  color: aliceblue;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+}
+
 .container_list_movies {
   max-width: 100%;
   display: flex;

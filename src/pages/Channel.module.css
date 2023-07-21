@@ -6,9 +6,22 @@
   padding: 40px;
 }
 
+.container_channels h1 {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 4em;
+  color: aliceblue;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+}
+
 .container_list_channels {
   max-width: 100%;
   display: flex;
   flex-wrap: wrap;
   gap: 40px;
+}
+
+.container_list_channels a {
+  text-decoration: none;
 }

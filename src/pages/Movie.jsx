@@ -14,6 +14,7 @@ import Piratas from "../../public/video player/Movies/img/piratas.jfif";
 const Movie = () => {
   return (
     <section className={styles.container_movies}>
+      <h1>Filmes</h1>
       <div className={styles.container_list_movies}>
         <a href="https://cinexus-vlefur.netlify.app">
           <Card

@@ -17,6 +17,7 @@ import Disney from "../../public/video player/Channels/img/Disney.jfif";
 const Channel = () => {
   return (
     <section className={styles.container_channels}>
+      <h1>Canais</h1>
       <div className={styles.container_list_channels}>
         <a href="https://cinexus-bobosp.netlify.app">
           <Card img={Globo} alt="Globo" name="Globo" />
