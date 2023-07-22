@@ -20,7 +20,7 @@ export const Navbar = () => {
         <h3>Name</h3>
       </div>
       <nav className={styles.container_Links}>
-        <span>
+        <span className={styles.link_mobile}>
           <LinkNav img={home} alt="" url="/" name="Home Page" />
         </span>
         <span>

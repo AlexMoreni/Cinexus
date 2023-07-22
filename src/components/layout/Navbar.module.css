@@ -46,3 +46,37 @@
 .container_Links span {
   font-size: 1.2rem;
 }
+
+@media screen and (max-width: 600px) {
+  .navbar {
+    width: 100vw;
+    min-height: 0;
+    height: 15vh;
+    flex-direction: row;
+  }
+
+  .profile h3,
+  img {
+    display: none;
+  }
+
+  .profile h1 {
+    font-size: 1.5rem;
+    margin-left: 15px;
+  }
+
+  .container_Links {
+    margin-bottom: 0;
+    flex-direction: row;
+    margin-right: 20px;
+    gap: 30px;
+  }
+
+  .container_Links span {
+    font-size: 1rem;
+  }
+
+  .container_Links .link_mobile {
+    display: none;
+  }
+}
