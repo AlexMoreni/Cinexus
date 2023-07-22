@@ -12,3 +12,9 @@
 .row_Link span:hover {
   color: #ff4d40;
 }
+
+@media screen and (max-width: 600px) {
+  .row_Link .icon {
+    display: none;
+  }
+}

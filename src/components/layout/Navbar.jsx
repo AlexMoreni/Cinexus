@@ -16,7 +16,11 @@ export const Navbar = () => {
         <Link to="/">
           <h1>Cinexus</h1>
         </Link>
-        <img src={photoProfile} alt="photo-profile" />
+        <img
+          className={styles.photoProfile}
+          src={photoProfile}
+          alt="photo-profile"
+        />
         <h3>Name</h3>
       </div>
       <nav className={styles.container_Links}>
@@ -24,7 +28,13 @@ export const Navbar = () => {
           <LinkNav img={home} alt="" url="/" name="Home Page" />
         </span>
         <span>
-          <LinkNav img={channel} alt="" url="/channels" name="Canais TV" />
+          <LinkNav
+            className={styles.icon}
+            img={channel}
+            alt=""
+            url="/channels"
+            name="Canais TV"
+          />
         </span>
         <span>
           <LinkNav img={movie} alt="" url="/movies" name="Filmes" />
