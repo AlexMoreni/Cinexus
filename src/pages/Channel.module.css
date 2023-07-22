@@ -25,3 +25,17 @@
 .container_list_channels a {
   text-decoration: none;
 }
+
+@media screen and (max-width: 768px) {
+  .container_channels {
+    width: 95%;
+    padding: 0;
+    margin: 0;
+    margin-top: 15vh;
+  }
+
+  .container_list_channels {
+    gap: 30px;
+    justify-content: center;
+  }
+}
