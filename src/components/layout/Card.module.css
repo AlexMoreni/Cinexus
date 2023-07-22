@@ -24,4 +24,9 @@
     width: 150px;
     height: 150px;
   }
+
+  .container_card p {
+    margin-left: 10px;
+    font-size: 0.9rem;
+  }
 }
