@@ -18,3 +18,10 @@
   font-size: 1.3rem;
   margin-left: 10px;
 }
+
+@media screen and (max-width: 768px) {
+  .container_card {
+    width: 150px;
+    height: 150px;
+  }
+}
