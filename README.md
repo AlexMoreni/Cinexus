@@ -1,16 +1,16 @@
-# Cinexus
+# Cinexus 📺
 
 O projeto Cinexus é uma iniciativa emocionante para criar uma experiência de assistir filmes e canais de TV no conforto de sua própria casa. Inspirado nas principais plataformas de stream, o Cinexus combina a magia do cinema e da TV com a comodidade de estar em casa, proporcionando uma atmosfera autêntica de entretenimento.
 
 Confira o aplicativo: https://cinexus-alex-moreni.netlify.app/
 
-## Funcionalidades
+## Funcionalidades 🚀
 
 - Filmes e canais de TV com ampla classificação de gênero.
 - Canais de TV em tempo real.
 - Multiplataforma.
 
-## Rodando localmente
+## Rodando localmente ⚙️
 
 Clone o projeto
 
@@ -36,13 +36,12 @@ Inicie o servidor
   npm run dev
 ```
 
-## Screenshots
+## Screenshots 📷
 
-<div style="display: flex; align-items: center;">
-  ![Cinexus](https://github.com/AlexMoreni/Cinexus/assets/123013045/b319d1a1-f7ff-40c6-86f5-f198b5f333cc)
-  ![Cinexus-mobile](https://github.com/AlexMoreni/Cinexus/assets/123013045/543fbb15-11e7-4bff-af8e-0cb2fdae60cd)
-</div>
+![Cinexus](https://github.com/AlexMoreni/Cinexus/assets/123013045/b319d1a1-f7ff-40c6-86f5-f198b5f333cc)
+![Cinexus-mobile](https://github.com/AlexMoreni/Cinexus/assets/123013045/543fbb15-11e7-4bff-af8e-0cb2fdae60cd)
 
-## Autores
+
+## Autores 📍
 
 - [@AlexMoreni](https://github.com/AlexMoreni)
