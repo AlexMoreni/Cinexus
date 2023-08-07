@@ -39,8 +39,6 @@ Inicie o servidor
 ## Screenshots 📷
 
 ![Cinexus](https://github.com/AlexMoreni/Cinexus/assets/123013045/b319d1a1-f7ff-40c6-86f5-f198b5f333cc)
-![Cinexus-mobile](https://github.com/AlexMoreni/Cinexus/assets/123013045/543fbb15-11e7-4bff-af8e-0cb2fdae60cd)
-
 
 ## Autores 📍
 
